@@ -347,7 +347,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 	margin-left: -40px; margin-top: -40px; color: #fff; }
 
 .intro-section .image-wrapper:after{  content:''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: .8;
-	z-index: -1; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+	z-index: -1; background: linear-gradient(15deg, #ff6a00 0%, #fe6f01 100%); }
 
 .intro-section .intro{ width: 60%; margin-left: 40%; padding-left: 60px; }
 
@@ -439,7 +439,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 11. COUNTER SECTION
 --------------------------------- */
 
-.counter-section{ background: #120F22; color: #fff; }
+.counter-section{ background: #ea5606; color: #fff; }
 
 
 /* ---------------------------------
@@ -455,7 +455,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 13. FOOTER
 --------------------------------- */
 
-footer{ padding: 90px 30px 40px; background: #120F22; color: #fff; }
+footer{ padding: 90px 30px 40px; background: #d16207; color: #fff; }
 
 
 footer .logo img{ height: 50px; width: auto; }
@@ -466,7 +466,7 @@ footer .footer-section{ padding-left: 20px; }
 footer .footer-section .title{ position: relative; }
 
 footer .footer-section .title:after{ content:''; position: absolute; top: 5px; left: -20px; height: 12px; 
-	width: 12px; border-radius: 12px; background:  linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+	width: 12px; border-radius: 12px; background:  linear-gradient(15deg, #ff6a00 0%, #fe7701 100%); }
 
 
 
