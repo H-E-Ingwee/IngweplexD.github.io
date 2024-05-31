@@ -103,7 +103,7 @@ b.max-bold{ font-weight: 700; }
 
 .right-area{ float: right; }
 
-.font-red{ color: #FE018F; }
+.font-red{ color: #dc3b12; }
 .font-white{ color: #FFFFFF; }
 .font-semi-white{ color: #ddd; }
 .font-black-lite{ color: #444; }
@@ -210,7 +210,7 @@ b.max-bold{ font-weight: 700; }
 	border: 1px solid transparent; }
 
 .site-navigation > li > a:after{ content:''; display: block; margin: 11px auto; height: 7px; width: 7px; 
-	border-radius: 10px; background: #888; }
+	border-radius: 10px; background: #efa403; }
 
 .site-navigation > li:first-child > a,
 .site-navigation > li:last-child > a{ padding: 0; border: 0; line-height: 30px; }
@@ -294,7 +294,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 .main-slider{ height: calc(100%); position: relative; z-index: 10; background-size: cover; color: #fff; } 
 
 .main-slider:after{ content:''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: .8;
-	z-index: -1; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+	z-index: -1; background: linear-gradient(15deg, #e69b07 0%, #ff3603 100%); }
 
 .slider-content .hand-writing{ margin-top: -10px; font-size: 6em; letter-spacing: 4px; font-family: Allura; }
 
@@ -323,12 +323,12 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 5. SOCIAL SECTION
 --------------------------------- */
 
-.social-section{ padding: 40px 0; background-color: #120F22; color: #fff; }
+.social-section{ padding: 40px 0; background-color: #120F22; color: #ef9d04; }
 
 .social-section ul > li:first-child{ position: relative; padding-right: 270px; margin-right: 10px; }
 
 .social-section ul > li:first-child:after{ content: ''; width: 250px; position: absolute; top: 50%; 
-	right: 0; height: 2px; margin-top: -1px; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%);  }
+	right: 0; height: 2px; margin-top: -1px; background: linear-gradient(15deg, #e0a902 0%, #fe4001 100%);  }
 
 .social-section ul > li > a{ padding: 0 10px; }
 
@@ -357,18 +357,18 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 7. EVENT AREA
 --------------------------------- */
 
-.event-section{ background: #120F22; color: #fff; }
+.event-section{ background: #f49d05; color: #edeaea; }
 
 .event-section .single-event{ position: relative; }
 
 .single-event .date{ position: absolute; left: 0; width: 70px; padding: 20px 0; z-index: 1;
-	border: 2px solid #aaa; color: #FE018F; }
+	border: 2px solid #090202; color: #fe3401; }
 
-.single-event .date.active{ border-image: linear-gradient(to right,  #ff6a00 0%, #FE018F); 
+.single-event .date.active{ border-image: linear-gradient(to right,  #ff6a00 0%, #fe7f01); 
 	border-image-slice: 1; color: #fff; }
 
 .single-event .date.active:after{ content:''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; 	
-	z-index: -1; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+	z-index: -1; background: linear-gradient(15deg, #ff6a00 0%, #fe4401 100%); }
 
 .single-event .event-info{ padding-left: 100px; }
 
@@ -379,7 +379,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 
 .portfolio-section{ overflow: hidden; }
 
-.portfolio-section .portfolio-info{ padding: 50px 0; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+.portfolio-section .portfolio-info{ padding: 50px 0; background: linear-gradient(15deg, #ff6a00 0%, #fe7701 100%); }
 
 
 
@@ -392,7 +392,7 @@ header .main-menu > li > a:hover:after{ transform: translateX(0%); opacity: 1; }
 	
 .p-item a .portfolio-info:after{ content:''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; opacity: 0; 
 	transition: all .4s; z-index: -1;
-	color: #fff; background: linear-gradient(15deg, #ff6a00 0%, #FE018F 100%); }
+	color: #fff; background: linear-gradient(15deg, #ff6a00 0%, #fe5101 100%); }
 
 .p-item a .portfolio-info .title{ margin-bottom: 5px; transition: all .2s; transform: translateY(-10px); }
 
