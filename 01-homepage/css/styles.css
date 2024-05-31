@@ -187,7 +187,7 @@ b.max-bold{ font-weight: 700; }
 /* BUTTON WITH UNDELINE */
 
 .btn-underline{ font-size: .9em; letter-spacing: 2px; padding: 7px 0; position: relative; z-index: 1; 
-	overflow: hidden; color: #FE018F; }
+	overflow: hidden; color: #fe8801; }
 
 .btn-underline:after{ content: ''; position: absolute; bottom: 0; left: 0; right: 0; z-index: -1;  height: 2px;
 	transition: all .2s; transform: translateX(-100%); opacity: 0;
